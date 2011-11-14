@@ -1,0 +1,2 @@
+-e git+https://github.com/leftium/mailsnake.git#egg=mailsnake
+RapLeafApi==0.1.0
